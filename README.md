@@ -1,1 +1,0 @@
-# ccc5-chatgpt
