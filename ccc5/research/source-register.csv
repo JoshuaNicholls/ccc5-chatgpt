@@ -1,1 +1,6 @@
 id,type,title,author_or_creator,date,url,relevance,status,notes
+ccc4-playlist,file,CCC4 submission playlist,,2026-09-21,https://youtube.com/playlist?list=PLZI8zCShyGT8OISLeatdIx2ymf5VUgTOF&si=x4RaqeScg7trkPB6,Primary comparative corpus supplied for CCC5,active,Uploaded by user; playlist URL is recorded in the project attachment
+ccc4-final-showcase,video,Agma Schwa's CURSED CONLANG CIRCUS 4,Agma Schwa,2026-02-21,https://www.youtube.com/watch?v=a9Hu5c32pkY,Secondary index of the top 30 highest-voted CCC4 submissions,active,Official showcase with timestamps for all 30 entries
+ccc4-announcement,video,Who Can Create the Most CURSED CONLANG??? (CCC4),Agma Schwa,2025-07-19,https://www.youtube.com/watch?v=rMOmWDP_Duk,CCC4 rules and judging context,active,Announcement video; transcript availability is being investigated
+epic-avian,pdf,Epic Avian,Merlan,2025-08-31,https://flirora.xyz/ccc4.pdf,Primary submission artefact for one CCC4 entry,active,Submission PDF identifies Epic Avian as a language of the birds
+wattslang-plus-plus,web,Wattslang++,Esolangs,2026-07-01,https://esolangs.org/wiki/Wattslang%2B%2B,Independent technical documentation related to a CCC4 submission,active,Documents Wattslang++ as evolved from Wattslang, a CCC4 submission
